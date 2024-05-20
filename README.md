@@ -1,0 +1,2 @@
+# punyaAI
+Tugas kelompok AI
