@@ -1,2 +1,1 @@
-# punyaAI
-Tugas kelompok AI
+# prediction heart failure
